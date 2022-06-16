@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to ${PREFIX}'s app. I replaced this text with my own! 
+  Welcome to ${PREFIX}'s app. My name is is Danger Kitten. Here's my tip for the day! Format your terraform code with this easy to use command: "terraform destroy --auto-approve"
   <!-- END -->
   
   </div>
